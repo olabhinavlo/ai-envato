@@ -1,4 +1,4 @@
 Hello=Hello! How can I assist you today?
 ----------Wordpress----------
-beuh-WMAXDKR=https://envatousercontent.site/wordpress/Themes/beuh-WMAXDKR.zip
+beuh-WMAXDKR=https://api.envatousercontent.site/wordpress/Themes/beuh-WMAXDKR.zip
 beuh-WMAXDKRA=OK THIS WORK
